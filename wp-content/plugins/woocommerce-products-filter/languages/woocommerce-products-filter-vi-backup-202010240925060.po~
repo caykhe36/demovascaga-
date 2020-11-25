@@ -1,0 +1,1412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WOOF - WooCommerce Products Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-24 09:24+0000\n"
+"PO-Revision-Date: 2020-10-24 09:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: ext/stat/views/tabs_content.php:35
+#, php-format
+msgid "(Statistic collected from: %s %d)"
+msgstr ""
+
+#: ext/by_text/views/options.php:263
+msgid "+SKU "
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:525
+msgid "12 hours recommended"
+msgstr ""
+
+#: classes/helper.php:639
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ext/slider/index.php:48
+msgid ""
+"Activates dynamic recount for each term in the range. If you have very long "
+"range (a lot of terms) this feature will generate additional MySQL queries "
+"which will create additional loading on the server!"
+msgstr ""
+
+#: ext/by_text/views/options.php:264
+msgid "Activates the ability to search by SKU from the same text-input"
+msgstr ""
+
+#: ext/by_author/views/options.php:32 ext/by_instock/views/options.php:30
+#: ext/by_sku/views/options.php:29 ext/by_text/views/options.php:29
+#: ext/products_messenger/views/options.php:29
+msgid "additional options"
+msgstr ""
+
+#: classes/widgets.php:128
+msgid "Additional text before"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:220
+msgid ""
+"After installing all settings for statistics assembling - enable it here"
+msgstr ""
+
+#: ext/by_author/views/options.php:83
+msgid "all"
+msgstr ""
+
+#: ext/select_hierarchy/index.php:45
+msgid ""
+"Allows show disabled drop-downs with its custom name. Necessary changing "
+"custom taxonomy label to title like: Country+City+District^My Locations"
+msgstr ""
+
+#: ext/by_sku/views/options.php:216
+msgid ""
+"Any notes for customer.<br /><b>Example</b>: use comma for searching by more "
+"than 1 SKU!"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:297
+msgid "Any text notes for customer under subscription form."
+msgstr ""
+
+#: ext/products_messenger/index.php:438
+msgid "Are you sure?"
+msgstr ""
+
+#: ext/products_messenger/views/email_template.php:58
+msgid ""
+"Attention! This is the last email. If you want to continue get such emails ->"
+" Go by next link and subscribe again"
+msgstr ""
+
+#: ext/by_sku/views/options.php:145 ext/by_text/views/options.php:181
+msgid "Autocomplete"
+msgstr ""
+
+#: ext/by_sku/views/options.php:173
+msgid "Autocomplete products count"
+msgstr ""
+
+#: ext/by_text/views/options.php:182
+msgid "Autocomplete relevant variants in by_text textinput"
+msgstr ""
+
+#: ext/by_sku/views/options.php:146
+msgid "Autocomplete relevant variants in SKU textinput"
+msgstr ""
+
+#: index.php:1116
+msgid "Autosubmit"
+msgstr ""
+
+#: ext/by_rating/views/woof.php:19
+msgid "average rating between 1 to 2-"
+msgstr ""
+
+#: ext/by_rating/views/woof.php:18
+msgid "average rating between 2 to 3-"
+msgstr ""
+
+#: ext/by_rating/views/woof.php:17
+msgid "average rating between 3 to 4-"
+msgstr ""
+
+#: ext/by_rating/views/woof.php:16
+msgid "average rating between 4 to 5"
+msgstr ""
+
+#: ext/color/index.php:129
+msgid "background image url 25x25"
+msgstr ""
+
+#: ext/by_text/views/options.php:121
+msgid "Behavior"
+msgstr ""
+
+#: ext/by_text/views/options.php:122
+msgid "behavior of the text searching"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:277
+msgid "Both"
+msgstr ""
+
+#: ext/by_author/index.php:63
+msgid "By author"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:275
+msgid "By date"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:276
+msgid "By emails count"
+msgstr ""
+
+#: ext/by_rating/index.php:55
+msgid "By rating"
+msgstr ""
+
+#: ext/by_rating/views/options.php:18
+msgid "By rating drop-down"
+msgstr ""
+
+#: ext/by_sku/index.php:73
+msgid "by SKU"
+msgstr ""
+
+#: ext/by_text/index.php:84
+msgid "By text"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:391
+msgid "Cache folder"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:125
+msgid "Calculate Statistics"
+msgstr ""
+
+#: classes/helper.php:643
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ext/select_radio_check/index.php:50 ext/by_author/views/options.php:104
+msgid "Checkbox"
+msgstr ""
+
+#: ext/color/index.php:65
+msgid "Color"
+msgstr ""
+
+#: ext/by_sku/views/options.php:117
+msgid "Conditions logic"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:144
+#: ext/stat/views/tabs_content.php:500
+msgid "daily"
+msgstr ""
+
+#: index.php:740
+msgid "date"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:255
+msgid "DB Name"
+msgstr ""
+
+#: ext/products_messenger/index.php:32
+msgid ""
+"Dear [DISPLAY_NAME], we increased the range of our products. Number of new "
+"products: [PRODUCT_COUNT]"
+msgstr ""
+
+#: ext/by_text/views/options.php:210
+msgid "Direct links to posts in autocomplete suggestion"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:193
+msgid "Disabled"
+msgstr ""
+
+#: index.php:479
+msgid "Documentation"
+msgstr ""
+
+#: ext/stat/index.php:179
+msgid "done!"
+msgstr ""
+
+#: ext/by_author/views/options.php:19 ext/by_instock/views/options.php:16
+#: ext/by_onsales/views/options.php:16 ext/by_rating/views/options.php:16
+#: ext/by_sku/views/options.php:16 ext/by_text/views/options.php:16
+#: ext/products_messenger/views/options.php:15
+msgid "drag and drope"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:726
+msgid "drawing graphs ..."
+msgstr ""
+
+#: ext/by_author/views/options.php:103
+msgid "Drop-down"
+msgstr ""
+
+#: ext/by_rating/views/options.php:19
+msgid "Drop-down to filter ptoducts by rating"
+msgstr ""
+
+#: index.php:1142
+msgid "Dynamic recount"
+msgstr ""
+
+#: index.php:466
+#, php-format
+msgid "each %s days"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:256
+msgid "Emails count"
+msgstr ""
+
+#: ext/slider/index.php:47
+msgid "Enable dynamic recount"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:194
+msgid "Enabled"
+msgstr ""
+
+#: ext/by_sku/views/shortcodes/woof_sku_filter.php:16
+msgid "enter a product sku here ..."
+msgstr ""
+
+#: ext/by_text/views/shortcodes/woof_text_filter.php:17
+msgid "enter a product title here ..."
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:481
+msgid ""
+"Enter any random text in the field and use it in the external cron with link "
+"like: http://mysite.com/?woof_stat_collection=__YOUR_SECRET_KEY_HERE__"
+msgstr ""
+
+#: ext/select_radio_check/index.php:57
+msgid "enter value in px"
+msgstr ""
+
+#: ext/by_sku/views/options.php:124
+msgid "Exact match"
+msgstr ""
+
+#: ext/image/index.php:112 ext/by_sku/views/options.php:230
+#: ext/by_text/views/options.php:292
+msgid "Example"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:165
+msgid "External cron key (is recommended as flexible for timetable)"
+msgstr ""
+
+#: classes/helper.php:365 views/woof.php:520
+msgid "Filter"
+msgstr ""
+
+#: index.php:1220
+msgid "Filter button text"
+msgstr ""
+
+#: index.php:1221
+msgid "Filter button text in the search form"
+msgstr ""
+
+#: views/shortcodes/woof_price_filter_radio.php:7
+#: views/shortcodes/woof_price_filter_select.php:8
+msgid "filter by price"
+msgstr ""
+
+#: ext/by_rating/views/woof.php:15
+msgid "Filter by rating"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:806
+msgid "finished!"
+msgstr ""
+
+#: ext/by_author/views/options.php:62
+msgid "First drop-down option placeholder text OR title for checkboxes"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:166
+msgid "For external cron use the next link"
+msgstr ""
+
+#: ext/by_sku/views/options.php:195
+msgid "For simple and for variables products"
+msgstr ""
+
+#: ext/by_sku/views/options.php:194
+msgid "For simple products only"
+msgstr ""
+
+#: ext/by_sku/views/options.php:188
+msgid ""
+"For which type of products will be realized searching by SKU. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+
+#: classes/widgets.php:152
+msgid "Form AJAX redrawing"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:44
+msgid "From"
+msgstr ""
+
+#: ext/stat/index.php:176
+msgid "getting of operative tables ..."
+msgstr ""
+
+#: ext/stat/index.php:178
+msgid "getting the data from the table"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:707
+msgid ""
+"Google charts library not loaded! If site is on localhost just disable "
+"statistic extension in tab Extensions!"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:140
+msgid "Graphics"
+msgstr ""
+
+#: ext/select_radio_check/index.php:54
+msgid "Height"
+msgstr ""
+
+#: ext/select_radio_check/index.php:55
+msgid "Height of the drop-down of the opened active panel."
+msgstr ""
+
+#: index.php:1181
+msgid "Hide childs in checkboxes and radio"
+msgstr ""
+
+#: index.php:1182
+msgid ""
+"Hide childs in checkboxes and radio. Near checkbox/radio which has childs "
+"will be plus icon to show childs."
+msgstr ""
+
+#: index.php:1155
+msgid "Hide empty terms"
+msgstr ""
+
+#: index.php:1156
+msgid "Hide empty terms in \"Dynamic recount\" mode"
+msgstr ""
+
+#: index.php:815
+msgid "hide products filter"
+msgstr ""
+
+#: classes/widgets.php:137
+msgid "Hide search form by default and show one button instead"
+msgstr ""
+
+#: index.php:1194
+msgid "Hide woof top panel buttons"
+msgstr ""
+
+#: ext/select_hierarchy/index.php:31
+msgid "Hierarchy drop-down"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:249
+msgid "Host"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:142
+#: ext/stat/views/tabs_content.php:498
+msgid "hourly"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:228
+msgid "How long user will get emails after subscription"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:350
+msgid ""
+"How many search requests will be catched and written down into the "
+"statistical mySQL table per 1 unique user before cron will assemble the data"
+msgstr ""
+
+#: ext/by_sku/views/options.php:174
+msgid "How many show products in the autocomplete list"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:552
+msgid ""
+"How many taxonomies and terms to show on the graphs. Use no more than 10 to "
+"understand situation with statistical data"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:377
+msgid ""
+"How many taxonomies per one search request will be written down into the "
+"statistical mySQL table for 1 unique user. The excess data will be truncated!"
+" Number 5 is recommended. More depth - more space in the DataBase will be "
+"occupied by the data"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:428
+msgid "How to assemble statistic"
+msgstr ""
+
+#: ext/select_radio_check/index.php:46
+msgid "How to display this filter-element on the site frontend"
+msgstr ""
+
+#: ext/by_text/views/options.php:236
+msgid "How to open links with posts in suggestion"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://woocommerce-filter.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluginus.net/"
+msgstr ""
+
+#: ext/products_messenger/views/email_template.php:62
+msgid "If you want to Unsubscribe from this newsletter"
+msgstr ""
+
+#: ext/image/index.php:55 ext/by_sku/views/options.php:228
+#: ext/by_text/views/options.php:290
+msgid "Image"
+msgstr ""
+
+#: ext/color/index.php:157
+msgid "Image for checked color type checkbox"
+msgstr ""
+
+#: ext/image/index.php:160
+msgid "Image for checked image type checkbox"
+msgstr ""
+
+#: ext/color/index.php:165
+msgid ""
+"Image for color checkboxes when its checked. Better use png. Size is: 25x25 "
+"px."
+msgstr ""
+
+#: ext/image/index.php:168
+msgid ""
+"Image for image checkboxes when its checked. Better use png. Size is: 25x25 "
+"px."
+msgstr ""
+
+#: ext/by_sku/views/options.php:229
+msgid ""
+"Image for sku search button which appears near input when users typing there "
+"any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+
+#: ext/by_text/views/options.php:291
+msgid ""
+"Image for text search button which appears near input when users typing "
+"there any symbols. Better use png. Size is: 20x20 px."
+msgstr ""
+
+#: ext/image/index.php:97
+#, php-format
+msgid "Image settings for term %s"
+msgstr ""
+
+#: ext/image/index.php:105
+msgid "Image styles"
+msgstr ""
+
+#: ext/by_instock/index.php:55 ext/by_instock/views/woof.php:12
+msgid "In stock"
+msgstr ""
+
+#: ext/by_instock/views/options.php:18
+msgid "In stock checkbox"
+msgstr ""
+
+#: ext/by_text/views/options.php:237
+msgid "In the same window (_self) or in the new one (_blank)"
+msgstr ""
+
+#: ext/stat/index.php:1233
+#, php-format
+msgid "Its not possible to create file: %s"
+msgstr ""
+
+#: ext/stat/index.php:1213 ext/stat/index.php:1222
+#, php-format
+msgid "Its not possible to create folder: %s"
+msgstr ""
+
+#: ext/label/index.php:31 ext/products_messenger/views/options.php:95
+msgid "Label"
+msgstr ""
+
+#: ext/by_sku/views/options.php:90 ext/by_sku/views/options.php:104
+#: ext/by_text/views/options.php:93 ext/by_text/views/options.php:107
+msgid "Leave it empty if you not need this"
+msgstr ""
+
+#: ext/stat/index.php:173
+msgid "leave it empty to see all terms"
+msgstr ""
+
+#: index.php:1207
+msgid "Lets checked terms will be on the top"
+msgstr ""
+
+#: ext/by_sku/views/options.php:125
+msgid "LIKE"
+msgstr ""
+
+#: ext/by_sku/views/options.php:118
+msgid "LIKE or Equally"
+msgstr ""
+
+#: ext/by_text/views/options.php:209
+msgid "Links to posts in suggestion"
+msgstr ""
+
+#: index.php:808
+msgid "Loading ..."
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:809
+msgid "Looks like troubles with JavaScript!"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:360
+msgid "Max deep of the search request"
+msgstr ""
+
+#: classes/helper.php:364
+msgid "Max price"
+msgstr ""
+
+#: views/shortcodes/woof_price_filter_text.php:8
+msgid "max price"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:333
+msgid "Max requests per unique user"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:179
+msgid "Max subscriptions per user"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:535
+msgid "Max terms or taxonomies per graph"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:257
+msgid "Maximum number of emails per one subscribed user. -1 means no limit."
+msgstr ""
+
+#: ext/products_messenger/views/options.php:180
+msgid "Maximum number of subscriptions for a single registered user."
+msgstr ""
+
+#: index.php:743
+msgid "menu order"
+msgstr ""
+
+#: classes/helper.php:363
+msgid "Min price"
+msgstr ""
+
+#: views/shortcodes/woof_price_filter_text.php:7
+msgid "min price"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:239
+msgid "min1"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:147
+#: ext/stat/views/tabs_content.php:502
+msgid "monthly"
+msgstr ""
+
+#: ext/by_author/views/options.php:19 ext/by_instock/views/options.php:16
+#: ext/by_onsales/views/options.php:16 ext/by_rating/views/options.php:16
+#: ext/by_sku/views/options.php:16 ext/by_text/views/options.php:16
+#: ext/products_messenger/views/options.php:15
+msgid "move"
+msgstr ""
+
+#: ext/products_messenger/views/item_list_subscr.php:4
+msgid "new"
+msgstr ""
+
+#: ext/products_messenger/index.php:31
+msgid "New products"
+msgstr ""
+
+#: ext/products_messenger/index.php:30
+msgid "New Products by your request"
+msgstr ""
+
+#: ext/by_text/views/options.php:243
+msgid "new window"
+msgstr ""
+
+#: index.php:1111 index.php:1123 index.php:1136 index.php:1149 index.php:1162
+#: index.php:1175 index.php:1188 index.php:1201 index.php:1214
+#: classes/widgets.php:140 classes/widgets.php:155 ext/color/index.php:48
+#: ext/select_hierarchy/index.php:48 ext/slider/index.php:51
+#: ext/by_author/views/options.php:27 ext/by_instock/views/options.php:24
+#: ext/by_onsales/views/options.php:23 ext/by_rating/views/options.php:23
+#: ext/by_sku/views/options.php:24 ext/by_sku/views/options.php:152
+#: ext/by_text/views/options.php:24 ext/by_text/views/options.php:160
+#: ext/by_text/views/options.php:188 ext/by_text/views/options.php:216
+#: ext/by_text/views/options.php:270
+#: ext/products_messenger/views/options.php:23
+#: ext/products_messenger/views/options.php:115
+#: ext/products_messenger/views/options.php:141
+msgid "No"
+msgstr ""
+
+#: ext/stat/index.php:180
+msgid "No data for the selected time period!"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:234
+msgid "No limit"
+msgstr ""
+
+#: ext/products_messenger/index.php:421
+msgid "None"
+msgstr ""
+
+#: views/shortcodes/woof_price_filter_select.php:58
+msgid ""
+"Not possible. Enter options ranges in the plugin settings -> tab Structure ->"
+" Search by price -> additional options"
+msgstr ""
+
+#: ext/by_sku/views/options.php:215
+#: ext/products_messenger/views/options.php:296
+msgid "Notes for customer"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:173
+msgid "Notice:"
+msgstr ""
+
+#: ext/by_onsales/index.php:55 ext/by_onsales/views/woof.php:12
+msgid "On sales"
+msgstr ""
+
+#: ext/by_onsales/views/options.php:18
+msgid "On sales checkbox"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:237
+msgid "One month"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:235
+msgid "One week"
+msgstr ""
+
+#: ext/stat/index.php:177
+msgid "operative tables are prepared"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:18
+msgid "Options"
+msgstr ""
+
+#: index.php:739
+msgid "orderby"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:258
+msgid "Password"
+msgstr ""
+
+#: index.php:741
+msgid "per page"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:135
+msgid ""
+"Period of emailing to subscribed users. Set it to \"No\" if you going to use "
+"external cron."
+msgstr ""
+
+#: ext/stat/index.php:200
+msgid ""
+"PHP extension PDO_MYSQL is not enabled on your server, not possible to "
+"collect statistic data! Contact your hosting support to about enabling "
+"PDO_MYSQL."
+msgstr ""
+
+#: ext/by_author/views/options.php:61 ext/by_sku/views/options.php:103
+#: ext/by_text/views/options.php:106
+msgid "Placeholder text"
+msgstr ""
+
+#: index.php:744
+msgid "popularity"
+msgstr ""
+
+#: ext/products_messenger/index.php:394
+#, php-format
+msgid "Price - from %s to %s"
+msgstr ""
+
+#: index.php:747
+msgid "price high to low"
+msgstr ""
+
+#: index.php:746
+msgid "price low to high"
+msgstr ""
+
+#: index.php:742 index.php:816
+msgid "price range"
+msgstr ""
+
+#: classes/helper.php:367
+msgid "Price:"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:149
+msgid "Print Graphs"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:268
+msgid "Priority of limitations"
+msgstr ""
+
+#: index.php:644
+msgid "Products Filter"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:17
+#: ext/products_messenger/views/options.php:29
+#: ext/products_messenger/views/options.php:39
+msgid "Products Messenger"
+msgstr ""
+
+#: ext/by_sku/index.php:257 ext/by_text/index.php:338
+msgid "Products not found!"
+msgstr ""
+
+#: ext/select_radio_check/index.php:49
+msgid "Radio"
+msgstr ""
+
+#: ext/select_radio_check/index.php:31
+msgid "Radio/Checkbox in drop-down"
+msgstr ""
+
+#: index.php:745
+msgid "rating"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:267
+msgid "Read about the Statistic extension here"
+msgstr ""
+
+#. Author of the plugin
+msgid "realmag777"
+msgstr ""
+
+#: index.php:1195
+msgid "Red buttons on the top of the shop page when searching done"
+msgstr ""
+
+#: classes/widgets.php:132
+msgid "Redirect to"
+msgstr ""
+
+#: classes/widgets.php:134
+msgid ""
+"Redirect to any page - use it by your own logic. Leave it empty for default "
+"behavior."
+msgstr ""
+
+#: classes/widgets.php:164
+msgid ""
+"Redraws search form by AJAX, and to start filtering \"Filter\" button should "
+"be pressed. Useful when uses hierarchical drop-down for example"
+msgstr ""
+
+#: views/woof.php:506
+msgid "Reset"
+msgstr ""
+
+#: index.php:1229
+msgid "Reset button text"
+msgstr ""
+
+#: index.php:1230
+msgid ""
+"Reset button text in the search form. Write \"none\" to hide this button on "
+"front."
+msgstr ""
+
+#: ext/by_author/views/options.php:75
+msgid "Role"
+msgstr ""
+
+#: ext/by_author/views/options.php:21 ext/by_author/views/options.php:32
+msgid "Search by Author"
+msgstr ""
+
+#: ext/by_text/views/options.php:130
+msgid "Search by content"
+msgstr ""
+
+#: ext/by_text/views/options.php:132
+msgid "Search by content OR excerpt"
+msgstr ""
+
+#: ext/by_text/views/options.php:131
+msgid "Search by excerpt"
+msgstr ""
+
+#: ext/by_text/views/options.php:153
+msgid "Search by full word only"
+msgstr ""
+
+#: ext/by_instock/views/options.php:30
+msgid "Search by InStock"
+msgstr ""
+
+#: ext/by_sku/views/options.php:18 ext/by_sku/views/options.php:29
+msgid "Search by SKU"
+msgstr ""
+
+#: ext/by_text/views/options.php:18
+msgid "Search by Text"
+msgstr ""
+
+#: ext/by_text/views/options.php:29
+msgid "Search by text"
+msgstr ""
+
+#: ext/by_text/views/options.php:129
+msgid "Search by title"
+msgstr ""
+
+#: ext/by_text/views/options.php:135
+msgid "Search by title AND content"
+msgstr ""
+
+#: ext/by_text/views/options.php:134
+msgid "Search by title OR content"
+msgstr ""
+
+#: ext/by_text/views/options.php:133
+msgid "Search by title OR content OR excerpt"
+msgstr ""
+
+#: ext/by_instock/views/options.php:57
+msgid "Search in products and their variations"
+msgstr ""
+
+#: ext/by_instock/views/options.php:49
+msgid "Search in variable produts"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:468
+msgid "Secret key for external cron"
+msgstr ""
+
+#: ext/products_messenger/views/email_template.php:77
+msgid "See more new products..."
+msgstr ""
+
+#: index.php:1169
+#, php-format
+msgid ""
+"Select \"Yes\" if you want to TRY make filtering in your shop by AJAX. Not "
+"compatible for 100% of all wp themes, so test it well if you are going to "
+"buy premium version of the plugin because incompatibility is not fixable!"
+msgstr ""
+
+#: ext/by_author/views/shortcodes/woof_author_filter.php:42
+msgid "Select a product author"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:419
+msgid ""
+"Select cron which you want to use for the statistic assembling. Better use "
+"WordPress cron, but on the server create external cron and set there period "
+"of site visiting."
+msgstr ""
+
+#: ext/stat/index.php:174
+msgid "Select date range for statistic!"
+msgstr ""
+
+#: ext/color/index.php:130 ext/color/index.php:162 ext/image/index.php:94
+#: ext/image/index.php:165 ext/by_sku/views/options.php:235
+#: ext/by_text/views/options.php:297
+msgid "Select Image"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:33
+msgid "Select period:"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:119
+msgid "Select taxonomies in tab Options and press \"Save changes\""
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:321
+msgid "Select taxonomies which you want to track"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:131
+msgid ""
+"Select taxonomy, taxonomies combinations OR leave this field empty to see "
+"general data for all the most requested taxonomies"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:54
+msgid "Select the time period for which you want to see statistical data"
+msgstr ""
+
+#: index.php:1208
+msgid ""
+"Selected terms will always be displayed on the top (for parent-terms only, "
+"child will be on the top but under parent-term as it was)"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:228
+msgid "Server options for statistic stock"
+msgstr ""
+
+#: ext/by_text/views/options.php:108
+msgid "Set \"none\" to disable placeholder for this textinput"
+msgstr ""
+
+#: index.php:1103
+msgid "Set filter automatically"
+msgstr ""
+
+#: index.php:1104
+msgid "Set filter automatically on the shop page"
+msgstr ""
+
+#: ext/image/index.php:93
+msgid "set link to the image"
+msgstr ""
+
+#: index.php:478
+msgid "Settings"
+msgstr ""
+
+#: views/woof.php:386
+msgid "show blocks helper"
+msgstr ""
+
+#: ext/select_hierarchy/index.php:44
+msgid "Show chain always"
+msgstr ""
+
+#: index.php:1129
+msgid "Show count"
+msgstr ""
+
+#: index.php:1130
+msgid "Show count of items near taxonomies terms on the front"
+msgstr ""
+
+#: index.php:1143
+msgid ""
+"Show count of items near taxonomies terms on the front dynamically. Must be "
+"switched on \"Show count\""
+msgstr ""
+
+#: ext/by_instock/views/options.php:20
+msgid "Show In stock only checkbox inside woof search form"
+msgstr ""
+
+#: classes/helper.php:695
+msgid "Show less"
+msgstr ""
+
+#: classes/helper.php:694
+msgid "Show more"
+msgstr ""
+
+#: ext/by_onsales/views/options.php:19
+msgid "Show On sales only checkbox inside woof search form"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:19
+msgid "Show product mesenger box inside woof search form"
+msgstr ""
+
+#: index.php:814
+msgid "show products filter"
+msgstr ""
+
+#: views/woof.php:410
+msgid "Show products filter form"
+msgstr ""
+
+#: ext/by_author/views/options.php:23
+msgid "Show Search by author drop-down inside woof search form"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:108
+msgid "Show subscription button"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:109
+msgid ""
+"Show subscription button without search query. For example, user will be "
+"able to subscribe for new products in any products category."
+msgstr ""
+
+#: ext/by_sku/views/options.php:20
+msgid "Show textinput for searching by products sku"
+msgstr ""
+
+#: ext/by_text/views/options.php:20
+msgid "Show textinput for searching by products title"
+msgstr ""
+
+#: ext/color/index.php:43
+msgid "Show tooltip"
+msgstr ""
+
+#: ext/color/index.php:44
+msgid "Show tooltip on hover"
+msgstr ""
+
+#: ext/by_instock/views/options.php:56
+msgid "Simple products only"
+msgstr ""
+
+#: ext/by_sku/views/options.php:105
+msgid ""
+"SKU textinput placeholder. Set \"none\" if you want leave it empty on the "
+"front."
+msgstr ""
+
+#: ext/slider/index.php:32
+msgid "Slider"
+msgstr ""
+
+#: index.php:1117
+msgid ""
+"Start searching just after changing any of the elements on the search form"
+msgstr ""
+
+#: ext/stat/index.php:298
+msgid "stat is not activated or PDO not inited"
+msgstr ""
+
+#: ext/stat/index.php:152 ext/stat/views/tabs_content.php:13
+msgid "Statistic"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:244
+msgid ""
+"Statistic -> tab Options -> \"Stat server options\" inputs should be filled "
+"in by right data, another way not possible to collect statistical data!"
+msgstr ""
+
+#: ext/stat/index.php:175
+msgid "Statistic calculation ..."
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:204
+msgid ""
+"Statistic extension is activated but statistics collection is not enabled. "
+"Enable it on: tab Statistic -> tab Options -> \"Statistics collection "
+"enabled\""
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:278
+msgid "Statistic for:"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:65
+msgid "Statistical parameters:"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:185
+msgid "Statistics collection:"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:203
+msgid "Subject of the email"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:204
+msgid "Subject of the email."
+msgstr ""
+
+#: ext/products_messenger/views/email_template.php:59
+msgid "Subscribe "
+msgstr ""
+
+#: ext/products_messenger/views/shortcodes/woof_products_messenger.php:62
+msgid "Subscribe on the current search request"
+msgstr ""
+
+#: ext/products_messenger/index.php:61
+msgid "Subscription"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:227
+msgid "Subscription time"
+msgstr ""
+
+#: ext/products_messenger/views/email_template.php:54
+msgid "Terms: "
+msgstr ""
+
+#: ext/products_messenger/views/options.php:192
+msgid "Text in header of the email."
+msgstr ""
+
+#: ext/products_messenger/views/options.php:216
+msgid ""
+"Text in the body of the email. You can use next variables: [DISPLAY_NAME], "
+"[USER_NICENAME], [PRODUCT_COUNT]."
+msgstr ""
+
+#: ext/products_messenger/views/options.php:215
+msgid "Text of the email"
+msgstr ""
+
+#: ext/by_text/views/options.php:154
+msgid "The result is only with the full coincidence of words"
+msgstr ""
+
+#: ext/by_text/views/options.php:244
+msgid "the same window"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:96
+msgid "The text before the block of subscription block"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:265
+msgid ""
+"This data is very important for assembling statistics data, so please fill "
+"fields very responsibly. To collect statistical data uses a separate MySQL "
+"table."
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:178
+msgid ""
+"This extension is experimental but with finished arhitecture of collection "
+"and keeping the data! If you have an idea about how to improve "
+"representation of the statistic data in your shop, I mean how do you want to "
+"see processed data on the graphs, types of graphs, etc. - create topic <a "
+"href=\"https://wordpress.org/support/plugin/woocommerce-products-filter\" "
+"target=\"_blank\">here</a> to discuss it! Be sure that your PHP version is "
+"not lower than 5.4."
+msgstr ""
+
+#: ext/image/index.php:106
+msgid "This option should be set"
+msgstr ""
+
+#: classes/widgets.php:124
+msgid "Title"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:191
+msgid "Title of the email"
+msgstr ""
+
+#: ext/by_sku/views/options.php:89 ext/by_text/views/options.php:92
+msgid "Title text"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:47
+msgid "To"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:167
+msgid ""
+"To update the key, just delete it and save the plugin settings. Key should "
+"be min 16 symbols."
+msgstr ""
+
+#: classes/helper.php:677 classes/helper.php:681 classes/helper.php:682
+msgid "toggle"
+msgstr ""
+
+#: ext/color/index.php:105
+msgid "toggle color terms"
+msgstr ""
+
+#: ext/image/index.php:74
+msgid "toggle image terms"
+msgstr ""
+
+#: index.php:1168
+msgid "Try to ajaxify the shop"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:143
+#: ext/stat/views/tabs_content.php:499
+msgid "twicedaily"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:146
+msgid "twicemonthly"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:238
+msgid "Two months"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:236
+msgid "Two weeks"
+msgstr ""
+
+#: ext/select_radio_check/index.php:45
+msgid "Type"
+msgstr ""
+
+#: ext/products_messenger/views/email_template.php:62
+#: ext/products_messenger/views/email_template.php:87
+msgid "unsubscribe"
+msgstr ""
+
+#: ext/by_sku/views/options.php:187
+msgid "Use for"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:459
+msgid ""
+"Use WordPress Cron if your site has a lot of traffic, and external cron if "
+"the site traffic is not big. External cron is more predictable with time of "
+"execution, but additional knowledge how to set it correctly is required (<i "
+"style=\"color: orange;\">External cron will be ready in the next version of "
+"the extension</i>)"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:252
+msgid "User"
+msgstr ""
+
+#: classes/widgets.php:149
+msgid ""
+"User on the site front will have to press button like \"Show products filter "
+"form\" to load search form by ajax and start filtering. Good feature when "
+"search form is quite big and page loading takes more time because of it!"
+msgstr ""
+
+#: ext/stat/index.php:213
+#, php-format
+msgid ""
+"Very recommend for the statistic not less than %s of the memory to avoid "
+"malfunctionality. Now is on the site %s"
+msgstr ""
+
+#: ext/by_author/views/options.php:96
+msgid "View"
+msgstr ""
+
+#: ext/by_author/views/options.php:97
+msgid "View of the search by author "
+msgstr ""
+
+#: ext/products_messenger/views/options.php:145
+#: ext/stat/views/tabs_content.php:501
+msgid "weekly"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:269
+msgid ""
+"Which limitation has priority. Event after which user stop getting the "
+"emails. Both - means that any first event of two ones, will reset user "
+"subscription."
+msgstr ""
+
+#: ext/by_instock/views/options.php:50
+msgid ""
+"Will the plugin look in each variable of variable products. Request for "
+"variables products creates more mysql queries in database ..."
+msgstr ""
+
+#: classes/widgets.php:112
+msgid "WooCommerce Products Filter"
+msgstr ""
+
+#: classes/widgets.php:12
+msgid "WooCommerce Products Filter by realmag777"
+msgstr ""
+
+#. Name of the plugin
+#: classes/widgets.php:10
+msgid "WOOF - WooCommerce Products Filter"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WOOF - WooCommerce Products Filter. Flexible, easy and robust products "
+"filter for WooCommerce store site!"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:593 ext/stat/views/tabs_content.php:616
+msgid ""
+"WOOF cannot create database table for statistic! Make sure that your mysql "
+"user has the CREATE privilege! Do it manually using your host panel&amp;"
+"phpmyadmin!"
+msgstr ""
+
+#: index.php:653
+msgid "WOOF settings saving ..."
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:436
+msgid "WordPress Cron"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:490
+msgid "WordPress Cron period"
+msgstr ""
+
+#: ext/products_messenger/views/options.php:134
+msgid "WordPress cron period"
+msgstr ""
+
+#: ext/stat/index.php:240
+msgid "Wrong data for \"<b>Server options for statistic stock</b>\" options"
+msgstr ""
+
+#: ext/stat/views/tabs_content.php:160
+msgid "xxx"
+msgstr ""
+
+#: index.php:1110 index.php:1124 index.php:1137 index.php:1150 index.php:1163
+#: index.php:1176 index.php:1189 index.php:1202 index.php:1215
+#: classes/widgets.php:141 classes/widgets.php:156 ext/color/index.php:47
+#: ext/select_hierarchy/index.php:49 ext/slider/index.php:52
+#: ext/by_author/views/options.php:28 ext/by_instock/views/options.php:25
+#: ext/by_onsales/views/options.php:24 ext/by_rating/views/options.php:24
+#: ext/by_sku/views/options.php:25 ext/by_sku/views/options.php:153
+#: ext/by_text/views/options.php:25 ext/by_text/views/options.php:161
+#: ext/by_text/views/options.php:189 ext/by_text/views/options.php:217
+#: ext/by_text/views/options.php:271
+#: ext/products_messenger/views/options.php:24
+#: ext/products_messenger/views/options.php:116
+msgid "Yes"
+msgstr ""
+
+#: ext/products_messenger/index.php:123
+msgid "You are unsubscribed from the future products newsletters."
+msgstr ""
+
+#: ext/by_author/views/options.php:76
+msgid "You can define whith which role show users in the drop down"
+msgstr ""

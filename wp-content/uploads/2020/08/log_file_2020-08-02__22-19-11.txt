@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://binhcomputer.com/blog
+Data file = /home/bjatateuhosting/public_html/binhcomputer.com/blog/wp-content/themes/list-mag-wp//functions/demo/listmag-content.xml
+Widget file = /home/bjatateuhosting/public_html/binhcomputer.com/blog/wp-content/themes/list-mag-wp//functions/demo/listmag-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar #1 = Home Page : 
+
+Custom: Advertisement 300px - No Title - Imported
+Custom: Top Posts - Top Posts - Imported
+Custom: Top Posts by likes. - Most Liked - Imported
+Custom: Advertisement 250px - No Title - Imported
+
+Sidebar #2 = Article Page : 
+
+Custom: Advertisement 300px - No Title - Imported
+Custom: Posts by Categories - Health - Imported
+Custom: Top Posts by likes. - Most Liked - Imported
+Custom: Advertisement 250px - No Title - Imported
+
+Sidebar #3 = Article Page Bottom : 
+
+Custom: Advertisement 300px - No Title - Imported
+Custom: Advertisement 300px - No Title - Imported
+Search - No Title - Imported
+Custom: Top Posts - Top Posts - Imported
+
+Sidebar #4 = Default Page : 
+
+Custom: Advertisement 300px - No Title - Imported
+Custom: Recent Posts - Recent Posts - Imported
+
+

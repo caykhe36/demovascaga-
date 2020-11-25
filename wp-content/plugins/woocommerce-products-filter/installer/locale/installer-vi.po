@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: WPML_EXPORT\n"
+"POT-Creation-Date: 2020-10-24 09:23+0000\n"
+"PO-Revision-Date: 2020-10-24 09:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+msgid " Your current site key (%s) does not match the selected product (%s)."
+msgstr ""
+"Khóa của trang web hiện thời của bạn (%s) không khớp với sản phẩm đã chọn "
+"(%s)."
+
+msgid ""
+"%s is registered on this site. You will receive automatic updates until %s"
+msgstr ""
+"%s đã đăng ký trên trang web này. Bạn sẽ nhận được các bản cập nhật tự động "
+"cho đến khi %s"
+
+msgid ""
+"%s is registered on this site. Your Lifetime account gives you updates for "
+"life."
+msgstr ""
+"%s đã đăng ký trên trang web này. Tài khoản Trịn đời của bạn cho phép bạn "
+"cập nhật mãi mãi."
+
+msgid "%s support on wpml.org"
+msgstr "%s hỗ trợ trên wpml.org"
+
+msgid "(embedded)"
+msgstr "(nhúng)"
+
+msgid "1. Go to your %s%s account%s and add this site URL: %s"
+msgstr "1. Truy cập vào %s%s tài khoản%s của bạn và thêm URL trang web này: %s"
+
+msgid "2. Enter your site key"
+msgstr "2. Nhập khóa trang web của bạn"
+
+msgid "Activate"
+msgstr "Kích hoạt"
+
+msgid "Activate after download"
+msgstr "Kích hoạt sau khi tải xuống"
+
+msgid "Activating %s"
+msgstr "Đang kích hoạt %s"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Already bought %s?"
+msgstr "Đã mua %s?"
+
+msgid "Already bought?"
+msgstr "Đã mua?"
+
+msgid "Are you sure you want to remove this site key?"
+msgstr "Bạn có chắc là bạn muốn xóa khóa của trang web này?"
+
+msgid "Are you sure you want to unregister?"
+msgstr "Bạn có chắc là bạn muốn hủy đăng ký?"
+
+msgid "Available"
+msgstr "Khả dụng"
+
+msgid "Buy %s"
+msgstr "Mua %s"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Check for updates"
+msgstr "Kiểm tra các bản cập nhật"
+
+msgid "Click to see individual components options."
+msgstr "Bấm để xem tùy chọn của các thành phần đơn lẻ."
+
+msgid "Current version"
+msgstr "Phiên bản hiện tại"
+
+msgid "Dismiss"
+msgstr "Bỏ qua"
+
+msgid "Download"
+msgstr "Tải xuống"
+
+msgid ""
+"Download failed!\n"
+"\n"
+"Click OK to revalidate your subscription or CANCEL to try again."
+msgstr ""
+"Tải xuống thất bại!\n"
+"\n"
+"Bấm OK để xác thực gói đăng ký của bạn hoặc HỦY để thử lại."
+
+msgid ""
+"Download failed!\n"
+"\n"
+"Please refresh the page and try again."
+msgstr ""
+"Tải xuống thất bại!\n"
+"\n"
+"Vui lòng làm mới trang web và thử lại."
+
+msgid "Downloading"
+msgstr "Đang tải xuống"
+
+msgid "Downloads:"
+msgstr "Tập tin tải xuống"
+
+msgid "Enter site key"
+msgstr "Nhập khóa của trang web"
+
+msgid "Incorrect setup"
+msgstr "Cài đặt không chính xác"
+
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+msgid "Installed version"
+msgstr "Phiên bản đã cài đặt"
+
+msgid ""
+"Installer cannot contact our updates server to get information about the "
+"available products and check for new versions. If you are seeing this "
+"message for the first time, you can ignore it, as it may be a temporary "
+"communication problem. If the problem persists and your WordPress admin is "
+"slowing down, you can disable automated version checks. Add the following "
+"line to your wp-config.php file:"
+msgstr ""
+"Installer không thể giao tiếp với máy chủ cập nhật của chúng tôi để tải "
+"thông tin về các sản phẩm khả dụng và kiểm tra các phiên bản mới. Nếu bạn "
+"thấy tin nhắn này lần đầu tiên, bạn có thể bỏ qua, vì có thể đây là sự cố "
+"giao tiếp tạm thời. Nếu sự cố vẫn tiếp tục và mục quản trị WordPress của bạn "
+"chạy chậm dần, bạn có thể vô hiệu tính năng kiểm tra phiên bản tự động. Thêm "
+"dòng sau vào tập tin wp-config.php của bạn:"
+
+msgid "Installing %s"
+msgstr "Đang cài đặt %s"
+
+msgid "Invalid product"
+msgstr "Sản phẩm không hợp lệ"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Register %s"
+msgstr "Đăng ký %s"
+
+msgid "Released"
+msgstr "Đã phát hành"
+
+msgid "Remove current site key (%s)"
+msgstr "Xóa khóa trang web hiện thời (%s)"
+
+msgid "Renew %s"
+msgstr "Gia hạn %s"
+
+msgid "Subscription is expired."
+msgstr "Gói thuê bao đã hết hạn"
+
+msgid ""
+"This page lets you install plugins and update existing plugins. To remove "
+"any of these plugins, go to the %splugins%s page and if you have the "
+"permission to remove plugins you should be able to do this."
+msgstr ""
+"Trang này cho phép bạn cài đặt các plugin và cập nhật các plugin có sẵn. Để "
+"xóa bất kỳ plugin nào trong số này, vào trang %splugins%s và nếu có giấy "
+"phép xóa các plugin bạn có thể thực hiện điều này."
+
+msgid "Unregister %s from this site"
+msgstr "Hủy đăng ký %s khỏi trang web này"
+
+msgid "Updating %s"
+msgstr "Đang cập nhật %s"
+
+msgid "activated"
+msgstr "đã kích hoạt"
+
+msgid "activating"
+msgstr "đang kích hoạt"
+
+msgid "downloaded"
+msgstr "đã tải xuống"
+
+msgid "downloading..."
+msgstr "đang tải xuống..."
+
+msgid "failed!"
+msgstr "thất bại!"
+
+msgid "installed"
+msgstr "đã cài đặt"
+
+msgid "installing..."
+msgstr "đang cài đặt..."
+
+msgid "updated"
+msgstr "đã cập nhật"
+
+msgid "updating..."
+msgstr "đang cập nhật..."
